@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: idptestingofcatalog
+spec:
+  type: service
+  owner: user:kartik-sharma@hcltech.com
+  lifecycle: experimental
